@@ -39,6 +39,13 @@ p {
   margin-right: auto;
 }
 
+.about-list li {
+    font-size: 18px;
+    color: #74c7ec;
+    list-style-type: none;
+    text-align: center;
+}
+
 h2 {
   font-size: 60px;
   color: #fab387;
